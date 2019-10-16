@@ -1,5 +1,5 @@
 # Your code goes here!
-def class Dog
+def class dog
   def name=(dogs_name)
     @this_dogs_name
   end
@@ -14,7 +14,7 @@ def class Dog
   
 end
 
-fido = Dog.new
+fido = dog.new
 fido.name = "Fido"
 fido.name
 fido.bark
